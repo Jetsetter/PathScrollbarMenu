@@ -14,7 +14,7 @@ To instantiate the class simplly call:
 The point of this class is to subclass it! Use this as a base for whatever your needs are.
 
 ### Options
-We currently only support two options. FPS and whether to degrade in Internet Explorer. The perfomence in IE is not fantastic, so by defauly we hide the menu on scorll, and bring it back once the user is done scrolling. 
+We currently only support two options. FPS and whether to degrade in Internet Explorer. The perfomence in IE is not fantastic, so by default we hide the menu on scroll, and bring it back once the user is done scrolling. 
 
 The default options are:
 
