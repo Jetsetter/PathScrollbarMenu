@@ -20,6 +20,6 @@ We currently only support two options. FPS and whether to degrade in Internet Ex
 The default options are:
 
 	options: {
-		fps: 30 ,
+		fps: 30,
 		degradeIE: true 
 	}
