@@ -1,0 +1,60 @@
+/* Path Style Scrollbar Menu */
+
+body{
+	height: 3000px;
+}
+
+
+#scrollbar-menu{
+	position: fixed;
+	right: 0;
+	top: 0;
+	height: 31px;
+	z-index: 9;
+	cursor: pointer;
+}
+
+#scrollbar-menu .arrow{
+    border-top: 15px solid transparent;
+    border-right: 0;
+    border-left: 15px solid #000;
+    border-left: 15px solid rgba(0,0,0,0.9);
+    border-bottom: 15px solid transparent;
+    _border-right-color: pink;
+    _border-top-color: pink;
+    _border-bottom-color: pink;
+    _filter: chroma(color=pink);
+
+
+	height: 0;
+	width: 0;
+	float: left;
+}
+
+#scrollbar-menu .wrap{
+	height: 31px;
+	width: 100px;
+	float: left;
+	background: #000;
+	background: rgba(0,0,0,0.9);
+	overflow: hidden;
+	box-shadow: -2px 2px 13px rgba(0,0,0,0.2);
+}
+
+#scrollbar-menu .wrap .closed-icon{
+	margin-top: 5px;
+	height: 20px;
+	width: 20px;
+	background: url(plane.png) 0 3px no-repeat;
+	float: right;
+}
+
+#scrollbar-menu .wrap p.closed-text{
+	float: left;
+	line-height: 31px;
+	color: #FFF;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	text-indent: 14px;
+}
