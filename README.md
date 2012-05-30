@@ -22,3 +22,6 @@ The default options are:
 		fps: 30,
 		degradeIE: true 
 	}
+
+### Examples
+We have included an example page in the examples folder within the project. You can also see the menu in use on the Jetsetter homepage at http://www.jetsetter.com
