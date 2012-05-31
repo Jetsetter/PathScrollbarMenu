@@ -24,6 +24,8 @@ The default options are:
 	}
 
 ### Examples
-We have included an example page in the examples folder within the project. You can also see the menu in use on the Jetsetter homepage at http://www.jetsetter.com
+We have included an example page in the examples folder within the project. You can also see the menu in use on the Jetsetter homepage at http://www.jetsetter.com.
+
+Here is what the version on Jetsetter looks like:
 
 ![Examples from Jetsetter.com](http://i.imgur.com/1cAmA.png)
