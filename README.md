@@ -7,7 +7,7 @@ At Jetsetter, we needed to enable the user to jump between sections of our homep
 ### How to use?
 We use Mootools as our main framework, and as such, this class is written for use with Mootools. The only requirement is Mootools Core > 1.4. This class should be simple enough to port to a jQuery plugin, and if there is enough interest we will do so (or someone else can do it -- we won't complain). 
 
-To instantiate the class simplly call:
+To instantiate the class simply call:
 
 	new PathScrollbarMenu(options /* optional options object */);
 
