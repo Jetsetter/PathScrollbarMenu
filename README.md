@@ -25,3 +25,5 @@ The default options are:
 
 ### Examples
 We have included an example page in the examples folder within the project. You can also see the menu in use on the Jetsetter homepage at http://www.jetsetter.com
+
+![Examples from Jetsetter.com](http://i.imgur.com/1cAmA.png)
