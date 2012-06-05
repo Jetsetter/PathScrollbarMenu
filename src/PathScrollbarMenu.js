@@ -22,7 +22,7 @@ var PathScrollbarMenu = new Class({
 		        window.oRequestAnimationFrame      || 
 		        window.msRequestAnimationFrame     || 
 		        function(/* function */ callback){
-		            window.setTimeout(callback, 1000 / PathMenu.options.fps);
+		            window.setTimeout(callback, 1000 / PathScrollbarMenu.options.fps);
 		        }
 		    );
 		}(this);
